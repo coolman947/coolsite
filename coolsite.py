@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # coolsite.py
 import webbrowser
 
@@ -7,4 +9,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
